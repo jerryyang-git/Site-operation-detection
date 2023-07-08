@@ -11,6 +11,8 @@ sites:
     url: https://imgio.jerryyang.link
   - name: ImgIo 图床外链域
     url: https://img.jerryyang.link/2023/07/08/4.webp
+  - name: meowfacts 猫知识 API
+    url: https://meowfacts.jerryyang.link
   - name: XZH 的博客
     url: https://blog.xzh.gs
   - name: chirmyram 七米蓝
