@@ -26,7 +26,7 @@ status-website:
   logoUrl: https://img.jerryyang.link/2023/07/08/4.webp
   name: Upptime
   introTitle: "忧忧的监控站"
-  introMessage: 加入友链的链接都将检测，问题不便可提 issues 或联系我
+  introMessage: 加入友链的链接都将检测，如有问题可提 issues 或联系我
   
   navbar:
     - title: 监控
