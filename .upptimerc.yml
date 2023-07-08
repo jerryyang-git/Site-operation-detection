@@ -9,7 +9,7 @@ sites:
     url: https://galzy.eu.org
   - name: YouImg 图床
     url: https://imgio.jerryyang.link
-  - name: 图床外链域
+  - name: ImgIo图床外链域
     url: https://img.jerryyang.link/2023/07/08/4.webp
 
 status-website:
