@@ -11,6 +11,12 @@ sites:
     url: https://imgio.jerryyang.link
   - name: ImgIo图床外链域
     url: https://img.jerryyang.link/2023/07/08/4.webp
+  - name: XZH的博客
+    url: https://blog.xzh.gs
+  - name: 七米蓝
+    url: https://www.chirmyram.top
+  - name: MoeShin
+    url: https://moeshin.com
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
