@@ -76,19 +76,19 @@
     "url": "https://meowfacts.jerryyang.link",
     "icon": "https://icons.duckduckgo.com/ip3/meowfacts.jerryyang.link.ico",
     "slug": "meowfacts-api",
-    "status": "down",
-    "uptime": "92.82%",
-    "uptimeDay": "85.53%",
-    "uptimeWeek": "92.82%",
-    "uptimeMonth": "92.82%",
-    "uptimeYear": "92.82%",
-    "time": 217,
-    "timeDay": 285,
-    "timeWeek": 217,
-    "timeMonth": 217,
-    "timeYear": 217,
+    "status": "up",
+    "uptime": "92.60%",
+    "uptimeDay": "85.05%",
+    "uptimeWeek": "92.60%",
+    "uptimeMonth": "92.60%",
+    "uptimeYear": "92.60%",
+    "time": 240,
+    "timeDay": 304,
+    "timeWeek": 240,
+    "timeMonth": 240,
+    "timeYear": 240,
     "dailyMinutesDown": {
-      "2023-07-10": 208
+      "2023-07-10": 215
     }
   },
   {
