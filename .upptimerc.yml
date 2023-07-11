@@ -31,7 +31,7 @@ status-website:
   introMessage: 加入友链的链接都将检测，如有问题可提 issues 或联系我
   
   navbar:
-    - title: 监控
+    - title: 🌐监控
       href: /
     - title: issues
       href: https://github.com/jerryyang-git/Site-operation-detection/issues
