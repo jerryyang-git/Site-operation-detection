@@ -9,7 +9,7 @@ sites:
     url: https://galzy.eu.org
   - name: ImgIO 图床
     url: https://imgio.jerryyang.link
-  - name: ImgIo 图床外链域
+  - name: ImgIoUrl 图床外链域
     url: https://img.jerryyang.link/2023/07/08/4.webp
   - name: meowfacts 猫知识 API
     url: https://meowfacts.jerryyang.link
