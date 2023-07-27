@@ -77,11 +77,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/meowfacts.jerryyang.link.ico",
     "slug": "meowfacts-api",
     "status": "up",
-    "uptime": "99.10%",
+    "uptime": "99.15%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.10%",
-    "uptimeYear": "99.10%",
+    "uptimeMonth": "99.15%",
+    "uptimeYear": "99.15%",
     "time": 282,
     "timeDay": 374,
     "timeWeek": 363,
@@ -133,9 +133,9 @@
     "url": "https://moeshin.com",
     "icon": "https://icons.duckduckgo.com/ip3/moeshin.com.ico",
     "slug": "moe-shin",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -144,6 +144,8 @@
     "timeWeek": 1365,
     "timeMonth": 1297,
     "timeYear": 1297,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-07-27": 0
+    }
   }
 ]
