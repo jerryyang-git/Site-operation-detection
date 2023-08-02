@@ -22,19 +22,19 @@
     "url": "https://galzy.eu.org",
     "icon": "https://icons.duckduckgo.com/ip3/galzy.eu.org.ico",
     "slug": "gal-zy",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 413,
-    "timeDay": 761,
-    "timeWeek": 477,
-    "timeMonth": 413,
-    "timeYear": 413,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "99.16%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
+    "time": 414,
+    "timeDay": 655,
+    "timeWeek": 473,
+    "timeMonth": 414,
+    "timeYear": 414,
     "dailyMinutesDown": {
-      "2023-08-02": 0
+      "2023-08-02": 12
     }
   },
   {
