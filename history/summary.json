@@ -4,28 +4,30 @@
     "url": "https://www.jerryyang.link",
     "icon": "https://icons.duckduckgo.com/ip3/www.jerryyang.link.ico",
     "slug": "blog",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.87%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 426,
-    "timeDay": 375,
-    "timeWeek": 502,
-    "timeMonth": 431,
-    "timeYear": 426,
-    "dailyMinutesDown": {}
+    "time": 635,
+    "timeDay": 7922,
+    "timeWeek": 2373,
+    "timeMonth": 901,
+    "timeYear": 635,
+    "dailyMinutesDown": {
+      "2023-09-07": 2
+    }
   },
   {
     "name": "GalZY 紫缘社",
     "url": "https://galzy.eu.org",
     "icon": "https://icons.duckduckgo.com/ip3/galzy.eu.org.ico",
     "slug": "gal-zy",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 412,
@@ -33,25 +35,29 @@
     "timeWeek": 473,
     "timeMonth": 414,
     "timeYear": 412,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-09-07": 1
+    }
   },
   {
     "name": "ImgIO 图床",
     "url": "https://imgio.jerryyang.link",
     "icon": "https://icons.duckduckgo.com/ip3/imgio.jerryyang.link.ico",
     "slug": "img-io",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 622,
-    "timeDay": 656,
-    "timeWeek": 760,
-    "timeMonth": 680,
-    "timeYear": 622,
-    "dailyMinutesDown": {}
+    "time": 832,
+    "timeDay": 8627,
+    "timeWeek": 2740,
+    "timeMonth": 1177,
+    "timeYear": 832,
+    "dailyMinutesDown": {
+      "2023-09-07": 0
+    }
   },
   {
     "name": "ImgIoUrl 图床外链域",
@@ -76,18 +82,19 @@
     "url": "https://meowfacts.jerryyang.link",
     "icon": "https://icons.duckduckgo.com/ip3/meowfacts.jerryyang.link.ico",
     "slug": "meowfacts-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.73%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.73%",
-    "time": 297,
-    "timeDay": 275,
-    "timeWeek": 363,
-    "timeMonth": 310,
-    "timeYear": 297,
+    "time": 294,
+    "timeDay": 179,
+    "timeWeek": 328,
+    "timeMonth": 303,
+    "timeYear": 294,
     "dailyMinutesDown": {
+      "2023-09-07": 0,
       "2023-07-11": 27,
       "2023-07-10": 208
     }
