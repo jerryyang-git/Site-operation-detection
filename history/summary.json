@@ -4,19 +4,19 @@
     "url": "https://www.jerryyang.link",
     "icon": "https://icons.duckduckgo.com/ip3/www.jerryyang.link.ico",
     "slug": "blog",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.14%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.99%",
-    "time": 627,
-    "timeDay": 5399,
-    "timeWeek": 2132,
-    "timeMonth": 879,
-    "timeYear": 627,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "97.93%",
+    "uptimeWeek": "99.70%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.97%",
+    "time": 629,
+    "timeDay": 4230,
+    "timeWeek": 1991,
+    "timeMonth": 875,
+    "timeYear": 629,
     "dailyMinutesDown": {
-      "2023-09-08": 12
+      "2023-09-08": 30
     }
   },
   {
@@ -43,18 +43,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/imgio.jerryyang.link.ico",
     "slug": "img-io",
     "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.14%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.99%",
+    "uptime": "99.97%",
+    "uptimeDay": "97.92%",
+    "uptimeWeek": "99.70%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.97%",
     "time": 825,
     "timeDay": 5903,
     "timeWeek": 2473,
     "timeMonth": 1150,
     "timeYear": 825,
     "dailyMinutesDown": {
-      "2023-09-08": 12
+      "2023-09-08": 30
     }
   },
   {
@@ -63,19 +63,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/img.jerryyang.link.ico",
     "slug": "img-io-url",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.16%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 111,
     "timeDay": 364,
     "timeWeek": 169,
     "timeMonth": 117,
     "timeYear": 111,
-    "dailyMinutesDown": {
-      "2023-09-08": 12
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "meowfacts 猫知识 API",
@@ -83,18 +81,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/meowfacts.jerryyang.link.ico",
     "slug": "meowfacts-api",
     "status": "down",
-    "uptime": "99.72%",
-    "uptimeDay": "99.15%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.72%",
+    "uptime": "99.70%",
+    "uptimeDay": "97.93%",
+    "uptimeWeek": "99.70%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.70%",
     "time": 293,
     "timeDay": 186,
     "timeWeek": 306,
     "timeMonth": 295,
     "timeYear": 293,
     "dailyMinutesDown": {
-      "2023-09-08": 12,
+      "2023-09-08": 30,
       "2023-07-11": 27,
       "2023-07-10": 208
     }
