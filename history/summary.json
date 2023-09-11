@@ -13,7 +13,7 @@
     "time": 625,
     "timeDay": 544,
     "timeWeek": 2008,
-    "timeMonth": 873,
+    "timeMonth": 883,
     "timeYear": 625,
     "dailyMinutesDown": {
       "2023-09-08": 30
@@ -33,7 +33,7 @@
     "time": 414,
     "timeDay": 611,
     "timeWeek": 450,
-    "timeMonth": 421,
+    "timeMonth": 420,
     "timeYear": 414,
     "dailyMinutesDown": {}
   },
@@ -51,7 +51,7 @@
     "time": 814,
     "timeDay": 744,
     "timeWeek": 2255,
-    "timeMonth": 1116,
+    "timeMonth": 1129,
     "timeYear": 814,
     "dailyMinutesDown": {
       "2023-09-08": 468
@@ -71,7 +71,7 @@
     "time": 125,
     "timeDay": 51,
     "timeWeek": 286,
-    "timeMonth": 129,
+    "timeMonth": 130,
     "timeYear": 125,
     "dailyMinutesDown": {}
   },
@@ -89,7 +89,7 @@
     "time": 303,
     "timeDay": 417,
     "timeWeek": 372,
-    "timeMonth": 321,
+    "timeMonth": 319,
     "timeYear": 303,
     "dailyMinutesDown": {
       "2023-09-08": 467,
@@ -103,19 +103,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/blog.xzh.gs.ico",
     "slug": "xzh",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.04%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1840,
     "timeDay": 1115,
     "timeWeek": 1616,
-    "timeMonth": 1977,
+    "timeMonth": 1980,
     "timeYear": 1840,
-    "dailyMinutesDown": {
-      "2023-09-10": 14
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "chirmyram 七米蓝",
@@ -131,7 +129,7 @@
     "time": 1642,
     "timeDay": 1346,
     "timeWeek": 1290,
-    "timeMonth": 1282,
+    "timeMonth": 1281,
     "timeYear": 1642,
     "dailyMinutesDown": {
       "2023-09-05": 57,
@@ -152,7 +150,7 @@
     "time": 1016,
     "timeDay": 817,
     "timeWeek": 898,
-    "timeMonth": 861,
+    "timeMonth": 863,
     "timeYear": 1016,
     "dailyMinutesDown": {
       "2023-07-27": 38
