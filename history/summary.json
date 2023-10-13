@@ -142,9 +142,9 @@
     "url": "https://moeshin.com",
     "icon": "https://icons.duckduckgo.com/ip3/moeshin.com.ico",
     "slug": "moe-shin",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
@@ -154,6 +154,7 @@
     "timeMonth": 1051,
     "timeYear": 1024,
     "dailyMinutesDown": {
+      "2023-10-13": 0,
       "2023-07-27": 38
     }
   }
