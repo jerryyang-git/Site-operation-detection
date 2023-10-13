@@ -43,11 +43,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/imgio.jerryyang.link.ico",
     "slug": "img-io",
     "status": "up",
-    "uptime": "99.66%",
+    "uptime": "99.67%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.66%",
+    "uptimeYear": "99.67%",
     "time": 744,
     "timeDay": 663,
     "timeWeek": 318,
@@ -81,11 +81,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/meowfacts.jerryyang.link.ico",
     "slug": "meowfacts-api",
     "status": "up",
-    "uptime": "99.49%",
+    "uptime": "99.50%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.49%",
+    "uptimeYear": "99.50%",
     "time": 290,
     "timeDay": 374,
     "timeWeek": 263,
@@ -102,9 +102,9 @@
     "url": "https://blog.xzh.gs",
     "icon": "https://icons.duckduckgo.com/ip3/blog.xzh.gs.ico",
     "slug": "xzh",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -113,7 +113,9 @@
     "timeWeek": 1496,
     "timeMonth": 1471,
     "timeYear": 1729,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-10-13": 0
+    }
   },
   {
     "name": "chirmyram 七米蓝",
@@ -144,9 +146,9 @@
     "slug": "moe-shin",
     "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "99.28%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 1024,
     "timeDay": 936,
@@ -154,7 +156,6 @@
     "timeMonth": 1050,
     "timeYear": 1024,
     "dailyMinutesDown": {
-      "2023-10-13": 10,
       "2023-07-27": 38
     }
   }
