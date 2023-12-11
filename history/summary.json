@@ -6,7 +6,7 @@
     "slug": "blog",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -16,6 +16,7 @@
     "timeMonth": 180,
     "timeYear": 420,
     "dailyMinutesDown": {
+      "2023-12-11": 0,
       "2023-09-08": 30
     }
   },
@@ -42,9 +43,9 @@
     "url": "https://imgio.jerryyang.link",
     "icon": "https://icons.duckduckgo.com/ip3/imgio.jerryyang.link.ico",
     "slug": "img-io",
-    "status": "up",
+    "status": "down",
     "uptime": "99.79%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.79%",
@@ -54,6 +55,7 @@
     "timeMonth": 392,
     "timeYear": 627,
     "dailyMinutesDown": {
+      "2023-12-11": 0,
       "2023-09-08": 468
     }
   },
@@ -62,9 +64,9 @@
     "url": "https://img.jerryyang.link/2023/07/08/4.webp",
     "icon": "https://icons.duckduckgo.com/ip3/img.jerryyang.link.ico",
     "slug": "img-io-url",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -73,16 +75,18 @@
     "timeWeek": 55,
     "timeMonth": 350,
     "timeYear": 207,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-12-11": 0
+    }
   },
   {
     "name": "meowfacts 猫知识 API",
     "url": "https://meowfacts.jerryyang.link",
     "icon": "https://icons.duckduckgo.com/ip3/meowfacts.jerryyang.link.ico",
     "slug": "meowfacts-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.69%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.69%",
@@ -92,6 +96,7 @@
     "timeMonth": 139,
     "timeYear": 253,
     "dailyMinutesDown": {
+      "2023-12-11": 0,
       "2023-09-08": 467,
       "2023-07-11": 27,
       "2023-07-10": 208
@@ -125,12 +130,12 @@
     "status": "up",
     "uptime": "98.71%",
     "uptimeDay": "90.91%",
-    "uptimeWeek": "96.64%",
+    "uptimeWeek": "96.84%",
     "uptimeMonth": "97.23%",
     "uptimeYear": "98.71%",
     "time": 1188,
     "timeDay": 527,
-    "timeWeek": 502,
+    "timeWeek": 501,
     "timeMonth": 944,
     "timeYear": 1188,
     "dailyMinutesDown": {
