@@ -113,7 +113,7 @@
     "slug": "xzh",
     "status": "up",
     "uptime": "98.80%",
-    "uptimeDay": "84.24%",
+    "uptimeDay": "88.46%",
     "uptimeWeek": "69.15%",
     "uptimeMonth": "92.90%",
     "uptimeYear": "98.80%",
@@ -134,9 +134,9 @@
     "url": "https://www.chirmyram.top",
     "icon": "https://icons.duckduckgo.com/ip3/www.chirmyram.top.ico",
     "slug": "chirmyram",
-    "status": "up",
+    "status": "down",
     "uptime": "99.01%",
-    "uptimeDay": "95.66%",
+    "uptimeDay": "95.64%",
     "uptimeWeek": "98.10%",
     "uptimeMonth": "97.47%",
     "uptimeYear": "99.01%",
@@ -146,6 +146,7 @@
     "timeMonth": 568,
     "timeYear": 1005,
     "dailyMinutesDown": {
+      "2024-01-08": 0,
       "2024-01-07": 63,
       "2024-01-06": 23,
       "2024-01-04": 16,
@@ -196,8 +197,7 @@
       "2023-11-09": 50,
       "2023-11-07": 21,
       "2023-11-06": 81,
-      "2023-11-05": 77,
-      "2023-11-04": 21
+      "2023-11-05": 77
     }
   },
   {
