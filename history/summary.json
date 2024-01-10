@@ -134,12 +134,12 @@
     "url": "https://www.chirmyram.top",
     "icon": "https://icons.duckduckgo.com/ip3/www.chirmyram.top.ico",
     "slug": "chirmyram",
-    "status": "up",
-    "uptime": "99.02%",
-    "uptimeDay": "92.73%",
+    "status": "down",
+    "uptime": "99.03%",
+    "uptimeDay": "92.72%",
     "uptimeWeek": "97.33%",
     "uptimeMonth": "97.35%",
-    "uptimeYear": "99.02%",
+    "uptimeYear": "99.03%",
     "time": 989,
     "timeDay": 563,
     "timeWeek": 550,
@@ -197,8 +197,7 @@
       "2023-11-11": 72,
       "2023-11-10": 267,
       "2023-11-09": 50,
-      "2023-11-07": 21,
-      "2023-11-06": 36
+      "2023-11-07": 21
     }
   },
   {
