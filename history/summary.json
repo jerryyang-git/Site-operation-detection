@@ -141,9 +141,9 @@
     "url": "https://www.chirmyram.top",
     "icon": "https://icons.duckduckgo.com/ip3/www.chirmyram.top.ico",
     "slug": "chirmyram",
-    "status": "up",
+    "status": "down",
     "uptime": "99.27%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.42%",
     "uptimeMonth": "99.73%",
     "uptimeYear": "99.27%",
@@ -153,6 +153,7 @@
     "timeMonth": 496,
     "timeYear": 952,
     "dailyMinutesDown": {
+      "2024-02-24": 0,
       "2024-02-22": 59,
       "2024-02-15": 23,
       "2024-02-01": 38,
@@ -204,7 +205,7 @@
       "2023-11-26": 135,
       "2023-11-25": 38,
       "2023-11-24": 31,
-      "2023-11-22": 32
+      "2023-11-22": 15
     }
   },
   {
@@ -213,11 +214,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/moeshin.com.ico",
     "slug": "moe-shin",
     "status": "up",
-    "uptime": "99.64%",
+    "uptime": "99.65%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.64%",
+    "uptimeYear": "99.65%",
     "time": 959,
     "timeDay": 832,
     "timeWeek": 930,
