@@ -116,18 +116,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/blog.xzh.gs.ico",
     "slug": "xzh",
     "status": "down",
-    "uptime": "93.71%",
+    "uptime": "93.57%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "59.19%",
-    "uptimeYear": "93.71%",
+    "uptimeMonth": "57.87%",
+    "uptimeYear": "93.57%",
     "time": 1420,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 806,
     "timeYear": 1420,
     "dailyMinutesDown": {
-      "2024-03-31": 67,
+      "2024-03-31": 643,
       "2024-03-30": 1440,
       "2024-03-29": 1440,
       "2024-03-28": 1440,
@@ -155,9 +155,9 @@
     "url": "https://www.chirmyram.top",
     "icon": "https://icons.duckduckgo.com/ip3/www.chirmyram.top.ico",
     "slug": "chirmyram",
-    "status": "up",
+    "status": "down",
     "uptime": "99.39%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.84%",
     "uptimeMonth": "99.72%",
     "uptimeYear": "99.39%",
@@ -167,6 +167,7 @@
     "timeMonth": 502,
     "timeYear": 909,
     "dailyMinutesDown": {
+      "2024-03-31": 0,
       "2024-03-24": 16,
       "2024-03-22": 34,
       "2024-03-21": 17,
@@ -221,8 +222,7 @@
       "2023-12-01": 89,
       "2023-11-30": 40,
       "2023-11-29": 16,
-      "2023-11-27": 38,
-      "2023-11-26": 16
+      "2023-11-27": 38
     }
   },
   {
