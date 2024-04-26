@@ -121,18 +121,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/blog.xzh.gs.ico",
     "slug": "xzh",
     "status": "down",
-    "uptime": "85.40%",
+    "uptime": "85.38%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "85.40%",
+    "uptimeYear": "85.38%",
     "time": 1420,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 1420,
     "dailyMinutesDown": {
-      "2024-04-25": 1419,
+      "2024-04-26": 63,
+      "2024-04-25": 1440,
       "2024-04-24": 1440,
       "2024-04-23": 1440,
       "2024-04-22": 1440,
@@ -187,9 +188,9 @@
     "slug": "chirmyram",
     "status": "up",
     "uptime": "99.42%",
-    "uptimeDay": "99.12%",
-    "uptimeWeek": "99.05%",
-    "uptimeMonth": "99.02%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.17%",
+    "uptimeMonth": "99.05%",
     "uptimeYear": "99.42%",
     "time": 863,
     "timeDay": 530,
@@ -197,7 +198,6 @@
     "timeMonth": 502,
     "timeYear": 863,
     "dailyMinutesDown": {
-      "2024-04-25": 13,
       "2024-04-21": 18,
       "2024-04-20": 44,
       "2024-04-19": 21,
@@ -259,7 +259,8 @@
       "2023-12-11": 68,
       "2023-12-10": 86,
       "2023-12-09": 16,
-      "2023-12-08": 67
+      "2023-12-08": 67,
+      "2023-12-07": 20
     }
   },
   {
