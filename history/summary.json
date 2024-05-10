@@ -132,7 +132,7 @@
     "timeMonth": 0,
     "timeYear": 1420,
     "dailyMinutesDown": {
-      "2024-05-10": 63,
+      "2024-05-10": 65,
       "2024-05-09": 1440,
       "2024-05-08": 1440,
       "2024-05-07": 1440,
@@ -202,8 +202,8 @@
     "slug": "chirmyram",
     "status": "down",
     "uptime": "99.45%",
-    "uptimeDay": "98.13%",
-    "uptimeWeek": "98.10%",
+    "uptimeDay": "97.97%",
+    "uptimeWeek": "98.08%",
     "uptimeMonth": "98.76%",
     "uptimeYear": "99.45%",
     "time": 848,
@@ -212,7 +212,7 @@
     "timeMonth": 535,
     "timeYear": 848,
     "dailyMinutesDown": {
-      "2024-05-10": 0,
+      "2024-05-10": 3,
       "2024-05-09": 27,
       "2024-05-08": 68,
       "2024-05-07": 21,
