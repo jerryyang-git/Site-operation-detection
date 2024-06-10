@@ -7,9 +7,11 @@ sites:
     url: https://www.jerryyang.link
   - name: GalZY 紫缘社
     url: https://galzy.eu.org
+  - name: GalZY Download Link
+    url: https://dlinkline.transmission2.eu.org/
   - name: ImgIO 图床
     url: https://imgio.jerryyang.link
-  - name: ImgIoUrl 图床外链域
+  - name: ImgIoUrl 图床 FileLink
     url: https://img.jerryyang.link/2023/07/08/4.webp
   - name: meowfacts 猫知识 API
     url: https://meowfacts.jerryyang.link
