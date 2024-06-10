@@ -48,18 +48,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/dlinkline.transmission2.eu.org.ico",
     "slug": "gal-zy-download-link",
     "status": "down",
-    "uptime": "7.27%",
-    "uptimeDay": "7.27%",
-    "uptimeWeek": "7.27%",
-    "uptimeMonth": "7.27%",
-    "uptimeYear": "7.27%",
+    "uptime": "2.14%",
+    "uptimeDay": "2.14%",
+    "uptimeWeek": "2.14%",
+    "uptimeMonth": "2.14%",
+    "uptimeYear": "2.14%",
     "time": 276,
     "timeDay": 276,
     "timeWeek": 276,
     "timeMonth": 276,
     "timeYear": 276,
     "dailyMinutesDown": {
-      "2024-06-10": 0
+      "2024-06-10": 1
     }
   },
   {
