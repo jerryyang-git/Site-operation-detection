@@ -5,22 +5,29 @@ repo: Site-operation-detection # The name of this repository
 sites:
   - name: 👋小忧忧のBlog
     url: https://www.jerryyang.link
+    method: GET
   - name: GalZY 紫缘社
     url: https://galzy.eu.org
+    method: GET
   - name: GalZY Download Link
     url: https://dlinkline.transmission2.eu.org/
+    method: GET
   - name: ImgIO 图床
     url: https://imgio.jerryyang.link
+    method: GET
   - name: ImgIoUrl 图床 FileLink
     url: https://img.jerryyang.link/2023/07/08/4.webp
+    method: GET
   - name: meowfacts 猫知识 API
     url: https://meowfacts.jerryyang.link
   - name: XZH 的博客
     url: https://blog.xzh.gs
   - name: chirmyram 七米蓝
     url: https://www.chirmyram.top
+    method: GET
   - name: MoeShin
     url: https://moeshin.com
+    method: GET
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
