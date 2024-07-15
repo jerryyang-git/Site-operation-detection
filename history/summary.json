@@ -58,18 +58,20 @@
     "url": "https://vault.jerryyang.link/",
     "icon": "https://icons.duckduckgo.com/ip3/vault.jerryyang.link.ico",
     "slug": "vaultwarden-by-youyou",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 590,
-    "timeDay": 553,
-    "timeWeek": 590,
-    "timeMonth": 590,
-    "timeYear": 590,
-    "dailyMinutesDown": {}
+    "time": 575,
+    "timeDay": 513,
+    "timeWeek": 575,
+    "timeMonth": 575,
+    "timeYear": 575,
+    "dailyMinutesDown": {
+      "2024-07-15": 0
+    }
   },
   {
     "name": "七米蓝",
@@ -88,7 +90,7 @@
     "timeMonth": 753,
     "timeYear": 753,
     "dailyMinutesDown": {
-      "2024-07-15": 53,
+      "2024-07-15": 915,
       "2024-07-14": 1440,
       "2024-07-13": 1440,
       "2024-07-12": 1440,
@@ -149,7 +151,7 @@
     "timeMonth": 753,
     "timeYear": 753,
     "dailyMinutesDown": {
-      "2024-07-15": 53,
+      "2024-07-15": 915,
       "2024-07-14": 1440,
       "2024-07-13": 1440,
       "2024-07-12": 1440,
@@ -174,7 +176,7 @@
     "timeMonth": 948,
     "timeYear": 948,
     "dailyMinutesDown": {
-      "2024-07-15": 53,
+      "2024-07-15": 915,
       "2024-07-14": 1440,
       "2024-07-13": 1440,
       "2024-07-12": 1440,
