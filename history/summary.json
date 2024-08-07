@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1578,
-    "timeDay": 1819,
-    "timeWeek": 1773,
-    "timeMonth": 1578,
-    "timeYear": 1578,
+    "time": 1576,
+    "timeDay": 1808,
+    "timeWeek": 1765,
+    "timeMonth": 1576,
+    "timeYear": 1576,
     "dailyMinutesDown": {
       "2024-08-07": 0
     }
@@ -61,11 +61,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/vault.jerryyang.link.ico",
     "slug": "vaultwarden-by-youyou",
     "status": "up",
-    "uptime": "98.15%",
+    "uptime": "98.16%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.15%",
-    "uptimeYear": "98.15%",
+    "uptimeMonth": "98.16%",
+    "uptimeYear": "98.16%",
     "time": 559,
     "timeDay": 534,
     "timeWeek": 500,
@@ -93,7 +93,7 @@
     "timeMonth": 740,
     "timeYear": 740,
     "dailyMinutesDown": {
-      "2024-08-07": 556,
+      "2024-08-07": 569,
       "2024-07-16": 1661,
       "2024-07-15": 1965,
       "2024-08-06": 1440,
@@ -153,11 +153,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1578,
-    "timeDay": 1819,
-    "timeWeek": 1773,
-    "timeMonth": 1578,
-    "timeYear": 1578,
+    "time": 1576,
+    "timeDay": 1808,
+    "timeWeek": 1765,
+    "timeMonth": 1576,
+    "timeYear": 1576,
     "dailyMinutesDown": {
       "2024-08-07": 0
     }
@@ -179,7 +179,7 @@
     "timeMonth": 740,
     "timeYear": 740,
     "dailyMinutesDown": {
-      "2024-08-07": 556,
+      "2024-08-07": 569,
       "2024-07-16": 1661,
       "2024-07-15": 1965,
       "2024-08-06": 1440,
@@ -227,7 +227,7 @@
     "timeMonth": 559,
     "timeYear": 559,
     "dailyMinutesDown": {
-      "2024-08-07": 556,
+      "2024-08-07": 569,
       "2024-08-06": 1440,
       "2024-08-05": 1440,
       "2024-08-04": 1440,
